@@ -218,6 +218,8 @@ Reference:
 
 [banzaicloud/k8s-objectmatcher](https://github.com/banzaicloud/k8s-objectmatcher)
 
+[Kubernetes Blog - How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server](https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/)
+
 And so many other pages...
 
 ### Build controller
